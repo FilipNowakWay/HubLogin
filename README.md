@@ -1,1 +1,1 @@
-site : https://filipnowakway.github.io/ImprovementHubLogin/login.html
+site : https://filipnowakway.github.io/HubLogin/login.html
